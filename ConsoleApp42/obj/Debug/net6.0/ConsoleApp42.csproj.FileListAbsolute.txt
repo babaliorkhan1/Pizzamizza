@@ -1,0 +1,15 @@
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.exe
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.deps.json
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.runtimeconfig.json
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.dll
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.pdb
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.csproj.AssemblyReference.cache
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.AssemblyInfoInputs.cache
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.AssemblyInfo.cs
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.csproj.CoreCompileInputs.cache
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.dll
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\refint\ConsoleApp42.dll
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.pdb
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.genruntimeconfig.cache
+C:\Users\MERDAN\Music\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ref\ConsoleApp42.dll
